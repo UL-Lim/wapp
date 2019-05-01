@@ -1,0 +1,117 @@
+INPUT
+{
+    FONT-FAMILY: "Geneva","Arial","Helvetica","Lucida", "Sans-Serif";
+    FONT-SIZE: 11px
+}
+SELECT
+{
+	color: #ffffff;
+	background-color: #333333;
+    FONT-FAMILY: "Geneva","Arial","Helvetica","Lucida", "Sans-Serif";
+    FONT-SIZE: 11px
+}
+OPTION
+{
+    FONT-FAMILY: "Geneva","Arial","Helvetica","Lucida", "Sans-Serif";
+    FONT-SIZE: 11px
+}
+
+A  {
+	color : Navy;
+	font-size : 10pt;
+	TEXT-DECORATION: underline;
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+}
+
+A:Visited  {
+	COLOR: Maroon; TEXT-DECORATION: underline; font-weight: normal
+}
+
+A:Active  {
+	COLOR: Blue; TEXT-DECORATION: none; font-weight: normal
+}
+
+A:Hover  {
+	COLOR: #ff9900; TEXT-DECORATION: underline; font-weight : normal
+}
+
+BODY  {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color : Black;
+	font-size : 10pt;
+}
+.navbar {
+	color : Gray;
+	font-size : 12px;
+	TEXT-DECORATION: underline;
+}
+.header {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color : #FF9900;
+	font-size : 12pt;
+	font-weight : bold;
+}
+.copy {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color : Black;
+	font-size : 10pt;
+	font-weight : normal;
+}
+.title {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color : #000000;
+	font-size : 11pt;
+	font-weight : bold;
+}
+.link2 {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color : Black;
+	font-size : 12px;
+	font-weight : normal;
+}
+
+	
+A.link2 {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color: black;
+	font-size : 12px;
+	font-weight : normal;
+	TEXT-DECORATION: underline;
+}
+
+A:VISITED.link2 {
+	color: black;
+	font-size : 12px;
+	TEXT-DECORATION: underline;
+}
+
+A:HOVER.link2 {
+	color: #ff9900;
+	TEXT-DECORATION: underline;
+}
+/* breadcrumb 3 */
+.trail {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color : Black;
+	font-size : 11px;
+	font-weight : normal;
+}
+	
+A.trail {
+	font-family : Arial, Helvetica, Verdana, sans-serif;
+	color: gray;
+	font-size : 11px;
+	font-weight : normal;
+	TEXT-DECORATION: underline;
+}
+
+A:VISITED.trail {
+	color: gray;
+	font-size : 11px;
+	TEXT-DECORATION: underline;
+}
+
+A:HOVER.trail {
+	color: #ff9900;
+	TEXT-DECORATION: underline;
+}
